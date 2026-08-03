@@ -15,9 +15,11 @@ Uses **Dijkstra's Algorithm** with effort-cost weights to find the most efficien
    cd your-repo-name
    
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Launch Streamlit app:
+4. Launch Streamlit app:
+   ```bash
    streamlit run app.py
 
 
