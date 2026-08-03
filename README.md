@@ -10,7 +10,7 @@ Uses **Dijkstra's Algorithm** with effort-cost weights to find the most efficien
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
-   bash
+   '''bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
    
