@@ -1,0 +1,3412 @@
+[
+  {
+    "number": 1,
+    "digimon_name": "Kuramon",
+    "ko_name": "쿠라몬",
+    "stage": "Baby",
+    "attribute": "Neutral",
+    "slug": "kuramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kuramon-icon.png",
+    "local_file": "assets/portraits/kuramon.png"
+  },
+  {
+    "number": 2,
+    "digimon_name": "Pabumon",
+    "ko_name": "깜몬",
+    "stage": "Baby",
+    "attribute": "Neutral",
+    "slug": "pabumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/pabumon-icon.png",
+    "local_file": "assets/portraits/pabumon.png"
+  },
+  {
+    "number": 3,
+    "digimon_name": "Punimon",
+    "ko_name": "푸니몬",
+    "stage": "Baby",
+    "attribute": "Neutral",
+    "slug": "punimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/punimon-icon.png",
+    "local_file": "assets/portraits/punimon.png"
+  },
+  {
+    "number": 4,
+    "digimon_name": "Botamon",
+    "ko_name": "깜몬",
+    "stage": "Baby",
+    "attribute": "Neutral",
+    "slug": "botamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/botamon-icon.png",
+    "local_file": "assets/portraits/botamon.png"
+  },
+  {
+    "number": 5,
+    "digimon_name": "Poyomon",
+    "ko_name": "포요몬",
+    "stage": "Baby",
+    "attribute": "Neutral",
+    "slug": "poyomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/poyomon-icon.png",
+    "local_file": "assets/portraits/poyomon.png"
+  },
+  {
+    "number": 6,
+    "digimon_name": "Arcadiamon In-Tr.",
+    "ko_name": "아르카디아몬 유년기",
+    "stage": "In-Training",
+    "attribute": "Dark",
+    "slug": "arcadiamon-in-tr",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/arcadiamon-in-tr-icon.png",
+    "local_file": "assets/portraits/arcadiamon-in-tr.png"
+  },
+  {
+    "number": 7,
+    "digimon_name": "Koromon",
+    "ko_name": "코로몬",
+    "stage": "In-Training",
+    "attribute": "Fire",
+    "slug": "koromon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/koromon-icon.png",
+    "local_file": "assets/portraits/koromon.png"
+  },
+  {
+    "number": 8,
+    "digimon_name": "Tanemon",
+    "ko_name": "어니몬",
+    "stage": "In-Training",
+    "attribute": "Plant",
+    "slug": "tanemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tanemon-icon.png",
+    "local_file": "assets/portraits/tanemon.png"
+  },
+  {
+    "number": 9,
+    "digimon_name": "Tsunomon",
+    "ko_name": "뿔몬",
+    "stage": "In-Training",
+    "attribute": "Earth",
+    "slug": "tsunomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tsunomon-icon.png",
+    "local_file": "assets/portraits/tsunomon.png"
+  },
+  {
+    "number": 10,
+    "digimon_name": "Tsumemon",
+    "ko_name": "츠메몬",
+    "stage": "In-Training",
+    "attribute": "Dark",
+    "slug": "tsumemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tsumemon-icon.png",
+    "local_file": "assets/portraits/tsumemon.png"
+  },
+  {
+    "number": 11,
+    "digimon_name": "Tokomon",
+    "ko_name": "토코몬",
+    "stage": "In-Training",
+    "attribute": "Neutral",
+    "slug": "tokomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tokomon-icon.png",
+    "local_file": "assets/portraits/tokomon.png"
+  },
+  {
+    "number": 12,
+    "digimon_name": "Nyaromon",
+    "ko_name": "야옹몬",
+    "stage": "In-Training",
+    "attribute": "Light",
+    "slug": "nyaromon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/nyaromon-icon.png",
+    "local_file": "assets/portraits/nyaromon.png"
+  },
+  {
+    "number": 13,
+    "digimon_name": "Pagumon",
+    "ko_name": "파구몬",
+    "stage": "In-Training",
+    "attribute": "Dark",
+    "slug": "pagumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/pagumon-icon.png",
+    "local_file": "assets/portraits/pagumon.png"
+  },
+  {
+    "number": 14,
+    "digimon_name": "Yokomon",
+    "ko_name": "피요몬",
+    "stage": "In-Training",
+    "attribute": "Plant",
+    "slug": "yokomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/yokomon-icon.png",
+    "local_file": "assets/portraits/yokomon.png"
+  },
+  {
+    "number": 15,
+    "digimon_name": "Bukamon",
+    "ko_name": "둥실몬",
+    "stage": "In-Training",
+    "attribute": "Water",
+    "slug": "bukamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/bukamon-icon.png",
+    "local_file": "assets/portraits/bukamon.png"
+  },
+  {
+    "number": 16,
+    "digimon_name": "Motimon",
+    "ko_name": "모티몬",
+    "stage": "In-Training",
+    "attribute": "Neutral",
+    "slug": "motimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/motimon-icon.png",
+    "local_file": "assets/portraits/motimon.png"
+  },
+  {
+    "number": 17,
+    "digimon_name": "Wanyamon",
+    "ko_name": "와냐몬",
+    "stage": "In-Training",
+    "attribute": "Wind",
+    "slug": "wanyamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/wanyamon-icon.png",
+    "local_file": "assets/portraits/wanyamon.png"
+  },
+  {
+    "number": 18,
+    "digimon_name": "Agumon",
+    "ko_name": "아구몬",
+    "stage": "Rookie",
+    "attribute": "Fire",
+    "slug": "agumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/agumon-icon.png",
+    "local_file": "assets/portraits/agumon.png"
+  },
+  {
+    "number": 19,
+    "digimon_name": "Agumon (Blk)",
+    "ko_name": "아구몬(흑)",
+    "stage": "Rookie",
+    "attribute": "Fire",
+    "slug": "agumon-black",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/agumon-blk-icon.png",
+    "local_file": "assets/portraits/agumon-black.png"
+  },
+  {
+    "number": 20,
+    "digimon_name": "Arcadiamon Rookie",
+    "ko_name": "아르카디아몬 성장기",
+    "stage": "Rookie",
+    "attribute": "Dark",
+    "slug": "arcadiamon-rookie",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/arcadiamon-rookie-icon.png",
+    "local_file": "assets/portraits/arcadiamon-rookie.png"
+  },
+  {
+    "number": 21,
+    "digimon_name": "Armadillomon",
+    "ko_name": "아르마몬",
+    "stage": "Rookie",
+    "attribute": "Earth",
+    "slug": "armadillomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/armadillomon-icon.png",
+    "local_file": "assets/portraits/armadillomon.png"
+  },
+  {
+    "number": 22,
+    "digimon_name": "Impmon",
+    "ko_name": "임프몬",
+    "stage": "Rookie",
+    "attribute": "Dark",
+    "slug": "impmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/impmon-icon.png",
+    "local_file": "assets/portraits/impmon.png"
+  },
+  {
+    "number": 23,
+    "digimon_name": "Elecmon",
+    "ko_name": "에렉몬",
+    "stage": "Rookie",
+    "attribute": "Electric",
+    "slug": "elecmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/elecmon-icon.png",
+    "local_file": "assets/portraits/elecmon.png"
+  },
+  {
+    "number": 24,
+    "digimon_name": "Otamamon",
+    "ko_name": "올챙몬",
+    "stage": "Rookie",
+    "attribute": "Water",
+    "slug": "otamamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/otamamon-icon.png",
+    "local_file": "assets/portraits/otamamon.png"
+  },
+  {
+    "number": 25,
+    "digimon_name": "Gaomon",
+    "ko_name": "가오몬",
+    "stage": "Rookie",
+    "attribute": "Neutral",
+    "slug": "gaomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gaomon-icon.png",
+    "local_file": "assets/portraits/gaomon.png"
+  },
+  {
+    "number": 26,
+    "digimon_name": "Gazimon",
+    "ko_name": "가지몬",
+    "stage": "Rookie",
+    "attribute": "Dark",
+    "slug": "gazimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gazimon-icon.png",
+    "local_file": "assets/portraits/gazimon.png"
+  },
+  {
+    "number": 27,
+    "digimon_name": "Gabumon",
+    "ko_name": "파피몬",
+    "stage": "Rookie",
+    "attribute": "Fire",
+    "slug": "gabumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gabumon-icon.png",
+    "local_file": "assets/portraits/gabumon.png"
+  },
+  {
+    "number": 28,
+    "digimon_name": "Gabumon (Blk)",
+    "ko_name": "파피몬(흑)",
+    "stage": "Rookie",
+    "attribute": "Fire",
+    "slug": "gabumon-black",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gabumon-blk-icon.png",
+    "local_file": "assets/portraits/gabumon-black.png"
+  },
+  {
+    "number": 29,
+    "digimon_name": "Guilmon",
+    "ko_name": "길몬",
+    "stage": "Rookie",
+    "attribute": "Fire",
+    "slug": "guilmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/guilmon-icon.png",
+    "local_file": "assets/portraits/guilmon.png"
+  },
+  {
+    "number": 30,
+    "digimon_name": "Kudamon",
+    "ko_name": "쿠다몬",
+    "stage": "Rookie",
+    "attribute": "Light",
+    "slug": "kudamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kudamon-icon.png",
+    "local_file": "assets/portraits/kudamon.png"
+  },
+  {
+    "number": 31,
+    "digimon_name": "Keramon",
+    "ko_name": "케라몬",
+    "stage": "Rookie",
+    "attribute": "Dark",
+    "slug": "keramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/keramon-icon.png",
+    "local_file": "assets/portraits/keramon.png"
+  },
+  {
+    "number": 32,
+    "digimon_name": "Gotsumon",
+    "ko_name": "울퉁몬",
+    "stage": "Rookie",
+    "attribute": "Earth",
+    "slug": "gotsumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gotsumon-icon.png",
+    "local_file": "assets/portraits/gotsumon.png"
+  },
+  {
+    "number": 33,
+    "digimon_name": "Goblimon",
+    "ko_name": "고블리몬",
+    "stage": "Rookie",
+    "attribute": "Earth",
+    "slug": "goblimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/goblimon-icon.png",
+    "local_file": "assets/portraits/goblimon.png"
+  },
+  {
+    "number": 34,
+    "digimon_name": "Gomamon",
+    "ko_name": "쉬라몬",
+    "stage": "Rookie",
+    "attribute": "Water",
+    "slug": "gomamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gomamon-icon.png",
+    "local_file": "assets/portraits/gomamon.png"
+  },
+  {
+    "number": 35,
+    "digimon_name": "Syakomon",
+    "ko_name": "샤코몬",
+    "stage": "Rookie",
+    "attribute": "Water",
+    "slug": "syakomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/syakomon-icon.png",
+    "local_file": "assets/portraits/syakomon.png"
+  },
+  {
+    "number": 36,
+    "digimon_name": "Zubamon",
+    "ko_name": "주바몬",
+    "stage": "Rookie",
+    "attribute": "Neutral",
+    "slug": "zubamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/zubamon-icon.png",
+    "local_file": "assets/portraits/zubamon.png"
+  },
+  {
+    "number": 37,
+    "digimon_name": "Solarmon",
+    "ko_name": "솔라몬",
+    "stage": "Rookie",
+    "attribute": "Light",
+    "slug": "solarmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/solarmon-icon.png",
+    "local_file": "assets/portraits/solarmon.png"
+  },
+  {
+    "number": 38,
+    "digimon_name": "Chuumon",
+    "ko_name": "찍찍몬",
+    "stage": "Rookie",
+    "attribute": "Earth",
+    "slug": "chuumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/chuumon-icon.png",
+    "local_file": "assets/portraits/chuumon.png"
+  },
+  {
+    "number": 39,
+    "digimon_name": "Terriermon",
+    "ko_name": "테리어몬",
+    "stage": "Rookie",
+    "attribute": "Wind",
+    "slug": "terriermon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/terriermon-icon.png",
+    "local_file": "assets/portraits/terriermon.png"
+  },
+  {
+    "number": 40,
+    "digimon_name": "Tentomon",
+    "ko_name": "텐타몬",
+    "stage": "Rookie",
+    "attribute": "Plant",
+    "slug": "tentomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tentomon-icon.png",
+    "local_file": "assets/portraits/tentomon.png"
+  },
+  {
+    "number": 41,
+    "digimon_name": "ToyAgumon",
+    "ko_name": "토이아구몬",
+    "stage": "Rookie",
+    "attribute": "Neutral",
+    "slug": "toyagumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/toyagumon-icon.png",
+    "local_file": "assets/portraits/toyagumon.png"
+  },
+  {
+    "number": 42,
+    "digimon_name": "Dracmon",
+    "ko_name": "드라크몬",
+    "stage": "Rookie",
+    "attribute": "Dark",
+    "slug": "dracmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dracmon-icon.png",
+    "local_file": "assets/portraits/dracmon.png"
+  },
+  {
+    "number": 43,
+    "digimon_name": "Dracomon",
+    "ko_name": "드라코몬",
+    "stage": "Rookie",
+    "attribute": "Fire",
+    "slug": "dracomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dracomon-icon.png",
+    "local_file": "assets/portraits/dracomon.png"
+  },
+  {
+    "number": 44,
+    "digimon_name": "Dorumon",
+    "ko_name": "돌몬",
+    "stage": "Rookie",
+    "attribute": "Neutral",
+    "slug": "dorumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dorumon-icon.png",
+    "local_file": "assets/portraits/dorumon.png"
+  },
+  {
+    "number": 45,
+    "digimon_name": "Hagurumon",
+    "ko_name": "톱니몬",
+    "stage": "Rookie",
+    "attribute": "Electric",
+    "slug": "hagurumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hagurumon-icon.png",
+    "local_file": "assets/portraits/hagurumon.png"
+  },
+  {
+    "number": 46,
+    "digimon_name": "Patamon",
+    "ko_name": "파타몬",
+    "stage": "Rookie",
+    "attribute": "Wind",
+    "slug": "patamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/patamon-icon.png",
+    "local_file": "assets/portraits/patamon.png"
+  },
+  {
+    "number": 47,
+    "digimon_name": "Hackmon",
+    "ko_name": "핵몬",
+    "stage": "Rookie",
+    "attribute": "Fire",
+    "slug": "hackmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hackmon-icon.png",
+    "local_file": "assets/portraits/hackmon.png"
+  },
+  {
+    "number": 48,
+    "digimon_name": "Palmon",
+    "ko_name": "팔몬",
+    "stage": "Rookie",
+    "attribute": "Plant",
+    "slug": "palmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/palmon-icon.png",
+    "local_file": "assets/portraits/palmon.png"
+  },
+  {
+    "number": 49,
+    "digimon_name": "DemiDevimon",
+    "ko_name": "피코데블몬",
+    "stage": "Rookie",
+    "attribute": "Dark",
+    "slug": "demidevimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/demidevimon-icon.png",
+    "local_file": "assets/portraits/demidevimon.png"
+  },
+  {
+    "number": 50,
+    "digimon_name": "Biyomon",
+    "ko_name": "피요몬",
+    "stage": "Rookie",
+    "attribute": "Wind",
+    "slug": "biyomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/biyomon-icon.png",
+    "local_file": "assets/portraits/biyomon.png"
+  },
+  {
+    "number": 51,
+    "digimon_name": "Falcomon",
+    "ko_name": "팔코몬",
+    "stage": "Rookie",
+    "attribute": "Wind",
+    "slug": "falcomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/falcomon-icon.png",
+    "local_file": "assets/portraits/falcomon.png"
+  },
+  {
+    "number": 52,
+    "digimon_name": "FanBeemon",
+    "ko_name": "판비몬",
+    "stage": "Rookie",
+    "attribute": "Plant",
+    "slug": "fanbeemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/fanbeemon-icon.png",
+    "local_file": "assets/portraits/fanbeemon.png"
+  },
+  {
+    "number": 53,
+    "digimon_name": "Veemon",
+    "ko_name": "브이몬",
+    "stage": "Rookie",
+    "attribute": "Neutral",
+    "slug": "veemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/veemon-icon.png",
+    "local_file": "assets/portraits/veemon.png"
+  },
+  {
+    "number": 54,
+    "digimon_name": "Salamon",
+    "ko_name": "플롯트몬",
+    "stage": "Rookie",
+    "attribute": "Light",
+    "slug": "salamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/salamon-icon.png",
+    "local_file": "assets/portraits/salamon.png"
+  },
+  {
+    "number": 55,
+    "digimon_name": "Betamon",
+    "ko_name": "베타몬",
+    "stage": "Rookie",
+    "attribute": "Water",
+    "slug": "betamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/betamon-icon.png",
+    "local_file": "assets/portraits/betamon.png"
+  },
+  {
+    "number": 56,
+    "digimon_name": "Hawkmon",
+    "ko_name": "호크몬",
+    "stage": "Rookie",
+    "attribute": "Wind",
+    "slug": "hawkmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hawkmon-icon.png",
+    "local_file": "assets/portraits/hawkmon.png"
+  },
+  {
+    "number": 57,
+    "digimon_name": "Mushroomon",
+    "ko_name": "머시드몬",
+    "stage": "Rookie",
+    "attribute": "Plant",
+    "slug": "mushroomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/mushroomon-icon.png",
+    "local_file": "assets/portraits/mushroomon.png"
+  },
+  {
+    "number": 58,
+    "digimon_name": "Monodramon",
+    "ko_name": "모노드라몬",
+    "stage": "Rookie",
+    "attribute": "Neutral",
+    "slug": "monodramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/monodramon-icon.png",
+    "local_file": "assets/portraits/monodramon.png"
+  },
+  {
+    "number": 59,
+    "digimon_name": "Lalamon",
+    "ko_name": "라라몬",
+    "stage": "Rookie",
+    "attribute": "Plant",
+    "slug": "lalamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lalamon-icon.png",
+    "local_file": "assets/portraits/lalamon.png"
+  },
+  {
+    "number": 60,
+    "digimon_name": "Lucemon",
+    "ko_name": "루체몬",
+    "stage": "Rookie",
+    "attribute": "Light",
+    "slug": "lucemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lucemon-icon.png",
+    "local_file": "assets/portraits/lucemon.png"
+  },
+  {
+    "number": 61,
+    "digimon_name": "Lunamon",
+    "ko_name": "루나몬",
+    "stage": "Rookie",
+    "attribute": "Water",
+    "slug": "lunamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lunamon-icon.png",
+    "local_file": "assets/portraits/lunamon.png"
+  },
+  {
+    "number": 62,
+    "digimon_name": "Renamon",
+    "ko_name": "레나몬",
+    "stage": "Rookie",
+    "attribute": "Plant",
+    "slug": "renamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/renamon-icon.png",
+    "local_file": "assets/portraits/renamon.png"
+  },
+  {
+    "number": 63,
+    "digimon_name": "Lopmon",
+    "ko_name": "로프몬",
+    "stage": "Rookie",
+    "attribute": "Earth",
+    "slug": "lopmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lopmon-icon.png",
+    "local_file": "assets/portraits/lopmon.png"
+  },
+  {
+    "number": 64,
+    "digimon_name": "Wormmon",
+    "ko_name": "추추몬",
+    "stage": "Rookie",
+    "attribute": "Plant",
+    "slug": "wormmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/wormmon-icon.png",
+    "local_file": "assets/portraits/wormmon.png"
+  },
+  {
+    "number": 65,
+    "digimon_name": "IceDevimon",
+    "ko_name": "아이스데블몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "icedevimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/icedevimon-icon.png",
+    "local_file": "assets/portraits/icedevimon.png"
+  },
+  {
+    "number": 66,
+    "digimon_name": "Icemon",
+    "ko_name": "아이스몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "icemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/icemon-icon.png",
+    "local_file": "assets/portraits/icemon.png"
+  },
+  {
+    "number": 67,
+    "digimon_name": "Aquilamon",
+    "ko_name": "아큐라몬",
+    "stage": "Champion",
+    "attribute": "Wind",
+    "slug": "aquilamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/aquilamon-icon.png",
+    "local_file": "assets/portraits/aquilamon.png"
+  },
+  {
+    "number": 68,
+    "digimon_name": "Agunimon",
+    "ko_name": "아그니몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "agunimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/agunimon-icon.png",
+    "local_file": "assets/portraits/agunimon.png"
+  },
+  {
+    "number": 69,
+    "digimon_name": "Arcadiamon Champion",
+    "ko_name": "아르카디아몬 성숙기",
+    "stage": "Champion",
+    "attribute": "Dark",
+    "slug": "arcadiamon-champion",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/arcadiamon-champion-icon.png",
+    "local_file": "assets/portraits/arcadiamon-champion.png"
+  },
+  {
+    "number": 70,
+    "digimon_name": "Ankylomon",
+    "ko_name": "안킬로몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "ankylomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ankylomon-icon.png",
+    "local_file": "assets/portraits/ankylomon.png"
+  },
+  {
+    "number": 71,
+    "digimon_name": "Ikkakumon",
+    "ko_name": "원뿔몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "ikkakumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ikkakumon-icon.png",
+    "local_file": "assets/portraits/ikkakumon.png"
+  },
+  {
+    "number": 72,
+    "digimon_name": "Wizardmon",
+    "ko_name": "위자몬",
+    "stage": "Champion",
+    "attribute": "Dark",
+    "slug": "wizardmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/wizardmon-icon.png",
+    "local_file": "assets/portraits/wizardmon.png"
+  },
+  {
+    "number": 73,
+    "digimon_name": "Lobomon",
+    "ko_name": "볼프몬",
+    "stage": "Champion",
+    "attribute": "Light",
+    "slug": "lobomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lobomon-icon.png",
+    "local_file": "assets/portraits/lobomon.png"
+  },
+  {
+    "number": 74,
+    "digimon_name": "Woodmon",
+    "ko_name": "우드몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "woodmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/woodmon-icon.png",
+    "local_file": "assets/portraits/woodmon.png"
+  },
+  {
+    "number": 75,
+    "digimon_name": "Airdramon",
+    "ko_name": "에어드라몬",
+    "stage": "Champion",
+    "attribute": "Wind",
+    "slug": "airdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/airdramon-icon.png",
+    "local_file": "assets/portraits/airdramon.png"
+  },
+  {
+    "number": 76,
+    "digimon_name": "ExVeemon",
+    "ko_name": "엑스브이몬",
+    "stage": "Champion",
+    "attribute": "Neutral",
+    "slug": "exveemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/exveemon-icon.png",
+    "local_file": "assets/portraits/exveemon.png"
+  },
+  {
+    "number": 77,
+    "digimon_name": "Angemon",
+    "ko_name": "엔젤몬",
+    "stage": "Champion",
+    "attribute": "Light",
+    "slug": "angemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/angemon-icon.png",
+    "local_file": "assets/portraits/angemon.png"
+  },
+  {
+    "number": 78,
+    "digimon_name": "Ogremon",
+    "ko_name": "우가몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "ogremon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ogremon-icon.png",
+    "local_file": "assets/portraits/ogremon.png"
+  },
+  {
+    "number": 79,
+    "digimon_name": "Guardromon",
+    "ko_name": "가드로몬",
+    "stage": "Champion",
+    "attribute": "Electric",
+    "slug": "guardromon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/guardromon-icon.png",
+    "local_file": "assets/portraits/guardromon.png"
+  },
+  {
+    "number": 80,
+    "digimon_name": "Guardromon (Gold)",
+    "ko_name": "가드로몬(골드)",
+    "stage": "Champion",
+    "attribute": "Electric",
+    "slug": "guardromon-gold",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/guardromon-gold-icon.png",
+    "local_file": "assets/portraits/guardromon-gold.png"
+  },
+  {
+    "number": 81,
+    "digimon_name": "GaoGamon",
+    "ko_name": "가오가몬",
+    "stage": "Champion",
+    "attribute": "Wind",
+    "slug": "gaogamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gaogamon-icon.png",
+    "local_file": "assets/portraits/gaogamon.png"
+  },
+  {
+    "number": 82,
+    "digimon_name": "Kabuterimon",
+    "ko_name": "캅테리몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "kabuterimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kabuterimon-icon.png",
+    "local_file": "assets/portraits/kabuterimon.png"
+  },
+  {
+    "number": 83,
+    "digimon_name": "ShellNumemon",
+    "ko_name": "쉘워매몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "shellnumemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/shellnumemon-icon.png",
+    "local_file": "assets/portraits/shellnumemon.png"
+  },
+  {
+    "number": 84,
+    "digimon_name": "Gargomon",
+    "ko_name": "가르고몬",
+    "stage": "Champion",
+    "attribute": "Electric",
+    "slug": "gargomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gargomon-icon.png",
+    "local_file": "assets/portraits/gargomon.png"
+  },
+  {
+    "number": 85,
+    "digimon_name": "Garurumon",
+    "ko_name": "가루몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "garurumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/garurumon-icon.png",
+    "local_file": "assets/portraits/garurumon.png"
+  },
+  {
+    "number": 86,
+    "digimon_name": "Garurumon (Blk)",
+    "ko_name": "가루몬(흑)",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "garurumon-black",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/garurumon-blk-icon.png",
+    "local_file": "assets/portraits/garurumon-black.png"
+  },
+  {
+    "number": 87,
+    "digimon_name": "Kyubimon",
+    "ko_name": "구미호몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "kyubimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kyubimon-icon.png",
+    "local_file": "assets/portraits/kyubimon.png"
+  },
+  {
+    "number": 88,
+    "digimon_name": "Growlmon",
+    "ko_name": "그라우몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "growlmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/growlmon-icon.png",
+    "local_file": "assets/portraits/growlmon.png"
+  },
+  {
+    "number": 89,
+    "digimon_name": "Kurisarimon",
+    "ko_name": "크리사리몬",
+    "stage": "Champion",
+    "attribute": "Dark",
+    "slug": "kurisarimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kurisarimon-icon.png",
+    "local_file": "assets/portraits/kurisarimon.png"
+  },
+  {
+    "number": 90,
+    "digimon_name": "Greymon",
+    "ko_name": "그레이몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "greymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/greymon-icon.png",
+    "local_file": "assets/portraits/greymon.png"
+  },
+  {
+    "number": 91,
+    "digimon_name": "Greymon (Blue)",
+    "ko_name": "그레이몬(청)",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "greymon-blue",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/greymon-blue-icon.png",
+    "local_file": "assets/portraits/greymon-blue.png"
+  },
+  {
+    "number": 92,
+    "digimon_name": "Clockmon",
+    "ko_name": "클락몬",
+    "stage": "Champion",
+    "attribute": "Electric",
+    "slug": "clockmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/clockmon-icon.png",
+    "local_file": "assets/portraits/clockmon.png"
+  },
+  {
+    "number": 93,
+    "digimon_name": "Kuwagamon",
+    "ko_name": "쿠와가몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "kuwagamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kuwagamon-icon.png",
+    "local_file": "assets/portraits/kuwagamon.png"
+  },
+  {
+    "number": 94,
+    "digimon_name": "Gekomon",
+    "ko_name": "개굴몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "gekomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gekomon-icon.png",
+    "local_file": "assets/portraits/gekomon.png"
+  },
+  {
+    "number": 95,
+    "digimon_name": "Geremon",
+    "ko_name": "게레몬",
+    "stage": "Champion",
+    "attribute": "Electric",
+    "slug": "geremon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/geremon-icon.png",
+    "local_file": "assets/portraits/geremon.png"
+  },
+  {
+    "number": 96,
+    "digimon_name": "Coredramon (Blue)",
+    "ko_name": "코어드라몬(청)",
+    "stage": "Champion",
+    "attribute": "Wind",
+    "slug": "coredramon-blue",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/coredramon-blue-icon.png",
+    "local_file": "assets/portraits/coredramon-blue.png"
+  },
+  {
+    "number": 97,
+    "digimon_name": "Coredramon (Green)",
+    "ko_name": "코어드라몬(녹)",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "coredramon-green",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/coredramon-green-icon.png",
+    "local_file": "assets/portraits/coredramon-green.png"
+  },
+  {
+    "number": 98,
+    "digimon_name": "GoldNumemon",
+    "ko_name": "골드워매몬",
+    "stage": "Champion",
+    "attribute": "Light",
+    "slug": "goldnumemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/goldnumemon-icon.png",
+    "local_file": "assets/portraits/goldnumemon.png"
+  },
+  {
+    "number": 99,
+    "digimon_name": "Golemon",
+    "ko_name": "골레몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "golemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/golemon-icon.png",
+    "local_file": "assets/portraits/golemon.png"
+  },
+  {
+    "number": 100,
+    "digimon_name": "Cyclonemon",
+    "ko_name": "사이클로몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "cyclonemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/cyclonemon-icon.png",
+    "local_file": "assets/portraits/cyclonemon.png"
+  },
+  {
+    "number": 101,
+    "digimon_name": "Sangloupmon",
+    "ko_name": "상굴루몬",
+    "stage": "Champion",
+    "attribute": "Dark",
+    "slug": "sangloupmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sangloupmon-icon.png",
+    "local_file": "assets/portraits/sangloupmon.png"
+  },
+  {
+    "number": 102,
+    "digimon_name": "Sunflowmon",
+    "ko_name": "해바라기몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "sunflowmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sunflowmon-icon.png",
+    "local_file": "assets/portraits/sunflowmon.png"
+  },
+  {
+    "number": 103,
+    "digimon_name": "Seadramon",
+    "ko_name": "시드라몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "seadramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/seadramon-icon.png",
+    "local_file": "assets/portraits/seadramon.png"
+  },
+  {
+    "number": 104,
+    "digimon_name": "Coelamon",
+    "ko_name": "실러몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "coelamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/coelamon-icon.png",
+    "local_file": "assets/portraits/coelamon.png"
+  },
+  {
+    "number": 105,
+    "digimon_name": "GeoGreymon",
+    "ko_name": "지오그레이몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "geogreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/geogreymon-icon.png",
+    "local_file": "assets/portraits/geogreymon.png"
+  },
+  {
+    "number": 106,
+    "digimon_name": "Sukamon",
+    "ko_name": "스카몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "sukamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sukamon-icon.png",
+    "local_file": "assets/portraits/sukamon.png"
+  },
+  {
+    "number": 107,
+    "digimon_name": "Starmon",
+    "ko_name": "스타몬",
+    "stage": "Champion",
+    "attribute": "Neutral",
+    "slug": "starmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/starmon-icon.png",
+    "local_file": "assets/portraits/starmon.png"
+  },
+  {
+    "number": 108,
+    "digimon_name": "Stingmon",
+    "ko_name": "스팅몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "stingmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/stingmon-icon.png",
+    "local_file": "assets/portraits/stingmon.png"
+  },
+  {
+    "number": 109,
+    "digimon_name": "Strikedramon",
+    "ko_name": "스트라이크드라몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "strikedramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/strikedramon-icon.png",
+    "local_file": "assets/portraits/strikedramon.png"
+  },
+  {
+    "number": 110,
+    "digimon_name": "Zubaeagermon",
+    "ko_name": "주바에이거몬",
+    "stage": "Champion",
+    "attribute": "Neutral",
+    "slug": "zubaeagermon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/zubaeagermon-icon.png",
+    "local_file": "assets/portraits/zubaeagermon.png"
+  },
+  {
+    "number": 111,
+    "digimon_name": "Socerimon",
+    "ko_name": "소서리몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "socerimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/socerimon-icon.png",
+    "local_file": "assets/portraits/socerimon.png"
+  },
+  {
+    "number": 112,
+    "digimon_name": "Tankmon",
+    "ko_name": "탱크몬",
+    "stage": "Champion",
+    "attribute": "Electric",
+    "slug": "tankmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tankmon-icon.png",
+    "local_file": "assets/portraits/tankmon.png"
+  },
+  {
+    "number": 113,
+    "digimon_name": "MudFrigimon",
+    "ko_name": "흙가시몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "mudfrigimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/mudfrigimon-icon.png",
+    "local_file": "assets/portraits/mudfrigimon.png"
+  },
+  {
+    "number": 114,
+    "digimon_name": "Tyrannomon",
+    "ko_name": "티라노몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "tyrannomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tyrannomon-icon.png",
+    "local_file": "assets/portraits/tyrannomon.png"
+  },
+  {
+    "number": 115,
+    "digimon_name": "Gatomon",
+    "ko_name": "가트몬",
+    "stage": "Champion",
+    "attribute": "Light",
+    "slug": "gatomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gatomon-icon.png",
+    "local_file": "assets/portraits/gatomon.png"
+  },
+  {
+    "number": 116,
+    "digimon_name": "Devimon",
+    "ko_name": "데블몬",
+    "stage": "Champion",
+    "attribute": "Dark",
+    "slug": "devimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/devimon-icon.png",
+    "local_file": "assets/portraits/devimon.png"
+  },
+  {
+    "number": 117,
+    "digimon_name": "Turuiemon",
+    "ko_name": "투루에몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "turuiemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/turuiemon-icon.png",
+    "local_file": "assets/portraits/turuiemon.png"
+  },
+  {
+    "number": 118,
+    "digimon_name": "Togemon",
+    "ko_name": "니드몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "togemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/togemon-icon.png",
+    "local_file": "assets/portraits/togemon.png"
+  },
+  {
+    "number": 119,
+    "digimon_name": "Dorugamon",
+    "ko_name": "돌가몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "dorugamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dorugamon-icon.png",
+    "local_file": "assets/portraits/dorugamon.png"
+  },
+  {
+    "number": 120,
+    "digimon_name": "Nanimon",
+    "ko_name": "나니몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "nanimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/nanimon-icon.png",
+    "local_file": "assets/portraits/nanimon.png"
+  },
+  {
+    "number": 121,
+    "digimon_name": "Numemon",
+    "ko_name": "워매몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "numemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/numemon-icon.png",
+    "local_file": "assets/portraits/numemon.png"
+  },
+  {
+    "number": 122,
+    "digimon_name": "Birdramon",
+    "ko_name": "버드라몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "birdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/birdramon-icon.png",
+    "local_file": "assets/portraits/birdramon.png"
+  },
+  {
+    "number": 123,
+    "digimon_name": "BaoHuckmon",
+    "ko_name": "바오핵몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "baohuckmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/baohuckmon-icon.png",
+    "local_file": "assets/portraits/baohuckmon.png"
+  },
+  {
+    "number": 124,
+    "digimon_name": "Bakemon",
+    "ko_name": "고스몬",
+    "stage": "Champion",
+    "attribute": "Dark",
+    "slug": "bakemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/bakemon-icon.png",
+    "local_file": "assets/portraits/bakemon.png"
+  },
+  {
+    "number": 125,
+    "digimon_name": "Veedramon",
+    "ko_name": "브이드라몬",
+    "stage": "Champion",
+    "attribute": "Wind",
+    "slug": "veedramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/veedramon-icon.png",
+    "local_file": "assets/portraits/veedramon.png"
+  },
+  {
+    "number": 126,
+    "digimon_name": "Hudiemon",
+    "ko_name": "후디에몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "hudiemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hudiemon-icon.png",
+    "local_file": "assets/portraits/hudiemon.png"
+  },
+  {
+    "number": 127,
+    "digimon_name": "PlatinumSukamon",
+    "ko_name": "플래티넘스카몬",
+    "stage": "Champion",
+    "attribute": "Neutral",
+    "slug": "platinumsukamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/platinumsukamon-icon.png",
+    "local_file": "assets/portraits/platinumsukamon.png"
+  },
+  {
+    "number": 128,
+    "digimon_name": "BlackGatomon",
+    "ko_name": "블랙가트몬",
+    "stage": "Champion",
+    "attribute": "Dark",
+    "slug": "blackgatomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/blackgatomon-icon.png",
+    "local_file": "assets/portraits/blackgatomon.png"
+  },
+  {
+    "number": 129,
+    "digimon_name": "Vegiemon",
+    "ko_name": "베지몬",
+    "stage": "Champion",
+    "attribute": "Plant",
+    "slug": "vegiemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/vegiemon-icon.png",
+    "local_file": "assets/portraits/vegiemon.png"
+  },
+  {
+    "number": 130,
+    "digimon_name": "Peckmon",
+    "ko_name": "펙몬",
+    "stage": "Champion",
+    "attribute": "Wind",
+    "slug": "peckmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/peckmon-icon.png",
+    "local_file": "assets/portraits/peckmon.png"
+  },
+  {
+    "number": 131,
+    "digimon_name": "Meramon",
+    "ko_name": "메라몬",
+    "stage": "Champion",
+    "attribute": "Fire",
+    "slug": "meramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/meramon-icon.png",
+    "local_file": "assets/portraits/meramon.png"
+  },
+  {
+    "number": 132,
+    "digimon_name": "Monochromon",
+    "ko_name": "모노크로몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "monochromon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/monochromon-icon.png",
+    "local_file": "assets/portraits/monochromon.png"
+  },
+  {
+    "number": 133,
+    "digimon_name": "Frigimon",
+    "ko_name": "프리지몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "frigimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/frigimon-icon.png",
+    "local_file": "assets/portraits/frigimon.png"
+  },
+  {
+    "number": 134,
+    "digimon_name": "Unimon",
+    "ko_name": "유니몬",
+    "stage": "Champion",
+    "attribute": "Wind",
+    "slug": "unimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/unimon-icon.png",
+    "local_file": "assets/portraits/unimon.png"
+  },
+  {
+    "number": 135,
+    "digimon_name": "Raptordramon",
+    "ko_name": "랩터드라몬",
+    "stage": "Champion",
+    "attribute": "Neutral",
+    "slug": "raptordramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/raptordramon-icon.png",
+    "local_file": "assets/portraits/raptordramon.png"
+  },
+  {
+    "number": 136,
+    "digimon_name": "Raremon",
+    "ko_name": "레어몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "raremon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/raremon-icon.png",
+    "local_file": "assets/portraits/raremon.png"
+  },
+  {
+    "number": 137,
+    "digimon_name": "Leomon",
+    "ko_name": "레오몬",
+    "stage": "Champion",
+    "attribute": "Earth",
+    "slug": "leomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/leomon-icon.png",
+    "local_file": "assets/portraits/leomon.png"
+  },
+  {
+    "number": 138,
+    "digimon_name": "Lekismon",
+    "ko_name": "레키스몬",
+    "stage": "Champion",
+    "attribute": "Water",
+    "slug": "lekismon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lekismon-icon.png",
+    "local_file": "assets/portraits/lekismon.png"
+  },
+  {
+    "number": 139,
+    "digimon_name": "Reppamon",
+    "ko_name": "렛파몬",
+    "stage": "Champion",
+    "attribute": "Light",
+    "slug": "reppamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/reppamon-icon.png",
+    "local_file": "assets/portraits/reppamon.png"
+  },
+  {
+    "number": 140,
+    "digimon_name": "Waspmon",
+    "ko_name": "와스프몬",
+    "stage": "Champion",
+    "attribute": "Electric",
+    "slug": "waspmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/waspmon-icon.png",
+    "local_file": "assets/portraits/waspmon.png"
+  },
+  {
+    "number": 141,
+    "digimon_name": "MegaKabuterimon",
+    "ko_name": "아틀라캅테리몬",
+    "stage": "Ultimate",
+    "attribute": "Plant",
+    "slug": "megakabuterimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/megakabuterimon-icon.png",
+    "local_file": "assets/portraits/megakabuterimon.png"
+  },
+  {
+    "number": 142,
+    "digimon_name": "Arcadiamon Ultimate",
+    "ko_name": "아르카디아몬 완전체",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "arcadiamon-ultimate",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/arcadiamon-ultimate-icon.png",
+    "local_file": "assets/portraits/arcadiamon-ultimate.png"
+  },
+  {
+    "number": 143,
+    "digimon_name": "Antylamon",
+    "ko_name": "안티라몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "antylamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/antylamon-icon.png",
+    "local_file": "assets/portraits/antylamon.png"
+  },
+  {
+    "number": 144,
+    "digimon_name": "Andromon",
+    "ko_name": "안드로몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "andromon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/andromon-icon.png",
+    "local_file": "assets/portraits/andromon.png"
+  },
+  {
+    "number": 145,
+    "digimon_name": "Meteormon",
+    "ko_name": "운석몬",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "meteormon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/meteormon-icon.png",
+    "local_file": "assets/portraits/meteormon.png"
+  },
+  {
+    "number": 146,
+    "digimon_name": "Infermon",
+    "ko_name": "인페르몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "infermon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/infermon-icon.png",
+    "local_file": "assets/portraits/infermon.png"
+  },
+  {
+    "number": 147,
+    "digimon_name": "Myotismon",
+    "ko_name": "묘티스몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "myotismon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/myotismon-icon.png",
+    "local_file": "assets/portraits/myotismon.png"
+  },
+  {
+    "number": 148,
+    "digimon_name": "Wingdramon",
+    "ko_name": "윙드라몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "wingdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/wingdramon-icon.png",
+    "local_file": "assets/portraits/wingdramon.png"
+  },
+  {
+    "number": 149,
+    "digimon_name": "BurningGreymon",
+    "ko_name": "브리트라몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "burninggreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/burninggreymon-icon.png",
+    "local_file": "assets/portraits/burninggreymon.png"
+  },
+  {
+    "number": 150,
+    "digimon_name": "AeroVeedramon",
+    "ko_name": "에어로브이드라몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "aeroveedramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/aeroveedramon-icon.png",
+    "local_file": "assets/portraits/aeroveedramon.png"
+  },
+  {
+    "number": 151,
+    "digimon_name": "Etemon",
+    "ko_name": "에테몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "etemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/etemon-icon.png",
+    "local_file": "assets/portraits/etemon.png"
+  },
+  {
+    "number": 152,
+    "digimon_name": "Angewomon",
+    "ko_name": "엔젤우몬",
+    "stage": "Ultimate",
+    "attribute": "Light",
+    "slug": "angewomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/angewomon-icon.png",
+    "local_file": "assets/portraits/angewomon.png"
+  },
+  {
+    "number": 153,
+    "digimon_name": "Okuwamon",
+    "ko_name": "오쿠와몬",
+    "stage": "Ultimate",
+    "attribute": "Plant",
+    "slug": "okuwamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/okuwamon-icon.png",
+    "local_file": "assets/portraits/okuwamon.png"
+  },
+  {
+    "number": 154,
+    "digimon_name": "Garudamon",
+    "ko_name": "가루다몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "garudamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/garudamon-icon.png",
+    "local_file": "assets/portraits/garudamon.png"
+  },
+  {
+    "number": 155,
+    "digimon_name": "KendoGarurumon",
+    "ko_name": "가룸몬",
+    "stage": "Ultimate",
+    "attribute": "Light",
+    "slug": "kendogarurumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kendogarurumon-icon.png",
+    "local_file": "assets/portraits/kendogarurumon.png"
+  },
+  {
+    "number": 156,
+    "digimon_name": "Gigadramon",
+    "ko_name": "기가드라몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "gigadramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gigadramon-icon.png",
+    "local_file": "assets/portraits/gigadramon.png"
+  },
+  {
+    "number": 157,
+    "digimon_name": "CatchMamemon",
+    "ko_name": "캐치콩알몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "catchmamemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/catchmamemon-icon.png",
+    "local_file": "assets/portraits/catchmamemon.png"
+  },
+  {
+    "number": 158,
+    "digimon_name": "CannonBeemon",
+    "ko_name": "캐논벌몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "cannonbeemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/cannonbeemon-icon.png",
+    "local_file": "assets/portraits/cannonbeemon.png"
+  },
+  {
+    "number": 159,
+    "digimon_name": "Groundramon",
+    "ko_name": "그라운드라몬",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "groundramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/groundramon-icon.png",
+    "local_file": "assets/portraits/groundramon.png"
+  },
+  {
+    "number": 160,
+    "digimon_name": "GrapLeomon",
+    "ko_name": "그래플레오몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "grapleomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/grapleomon-icon.png",
+    "local_file": "assets/portraits/grapleomon.png"
+  },
+  {
+    "number": 161,
+    "digimon_name": "Grademon",
+    "ko_name": "그레이드몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "grademon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/grademon-icon.png",
+    "local_file": "assets/portraits/grademon.png"
+  },
+  {
+    "number": 162,
+    "digimon_name": "Crescemon",
+    "ko_name": "크레셰몬",
+    "stage": "Ultimate",
+    "attribute": "Water",
+    "slug": "crescemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/crescemon-icon.png",
+    "local_file": "assets/portraits/crescemon.png"
+  },
+  {
+    "number": 163,
+    "digimon_name": "Cyberdramon",
+    "ko_name": "사이버드라몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "cyberdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/cyberdramon-icon.png",
+    "local_file": "assets/portraits/cyberdramon.png"
+  },
+  {
+    "number": 164,
+    "digimon_name": "Shakkoumon",
+    "ko_name": "토우몬",
+    "stage": "Ultimate",
+    "attribute": "Light",
+    "slug": "shakkoumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/shakkoumon-icon.png",
+    "local_file": "assets/portraits/shakkoumon.png"
+  },
+  {
+    "number": 165,
+    "digimon_name": "Cherrymon",
+    "ko_name": "쥬레이몬",
+    "stage": "Ultimate",
+    "attribute": "Plant",
+    "slug": "cherrymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/cherrymon-icon.png",
+    "local_file": "assets/portraits/cherrymon.png"
+  },
+  {
+    "number": 166,
+    "digimon_name": "Silphymon",
+    "ko_name": "실피드몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "silphymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/silphymon-icon.png",
+    "local_file": "assets/portraits/silphymon.png"
+  },
+  {
+    "number": 167,
+    "digimon_name": "SuperStarmon",
+    "ko_name": "슈퍼스타몬",
+    "stage": "Ultimate",
+    "attribute": "Light",
+    "slug": "superstarmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/superstarmon-icon.png",
+    "local_file": "assets/portraits/superstarmon.png"
+  },
+  {
+    "number": 168,
+    "digimon_name": "SkullGreymon",
+    "ko_name": "스컬그레이몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "skullgreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/skullgreymon-icon.png",
+    "local_file": "assets/portraits/skullgreymon.png"
+  },
+  {
+    "number": 169,
+    "digimon_name": "SkullSatamon",
+    "ko_name": "스컬사탄몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "skullsatamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/skullsatamon-icon.png",
+    "local_file": "assets/portraits/skullsatamon.png"
+  },
+  {
+    "number": 170,
+    "digimon_name": "Zudomon",
+    "ko_name": "쥬드몬",
+    "stage": "Ultimate",
+    "attribute": "Water",
+    "slug": "zudomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/zudomon-icon.png",
+    "local_file": "assets/portraits/zudomon.png"
+  },
+  {
+    "number": 171,
+    "digimon_name": "SaviorHuckmon",
+    "ko_name": "세이버핵몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "saviorhuckmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/saviorhuckmon-icon.png",
+    "local_file": "assets/portraits/saviorhuckmon.png"
+  },
+  {
+    "number": 172,
+    "digimon_name": "Taomon",
+    "ko_name": "도사몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "taomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/taomon-icon.png",
+    "local_file": "assets/portraits/taomon.png"
+  },
+  {
+    "number": 173,
+    "digimon_name": "Dragomon",
+    "ko_name": "다고몬",
+    "stage": "Ultimate",
+    "attribute": "Water",
+    "slug": "dragomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dragomon-icon.png",
+    "local_file": "assets/portraits/dragomon.png"
+  },
+  {
+    "number": 174,
+    "digimon_name": "Chirinmon",
+    "ko_name": "치린몬",
+    "stage": "Ultimate",
+    "attribute": "Light",
+    "slug": "chirinmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/chirinmon-icon.png",
+    "local_file": "assets/portraits/chirinmon.png"
+  },
+  {
+    "number": 175,
+    "digimon_name": "Dinobeemon",
+    "ko_name": "다이노비몬",
+    "stage": "Ultimate",
+    "attribute": "Plant",
+    "slug": "dinobeemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dinobeemon-icon.png",
+    "local_file": "assets/portraits/dinobeemon.png"
+  },
+  {
+    "number": 176,
+    "digimon_name": "Digitamamon",
+    "ko_name": "디지타마몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "digitamamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/digitamamon-icon.png",
+    "local_file": "assets/portraits/digitamamon.png"
+  },
+  {
+    "number": 177,
+    "digimon_name": "SkullMeramon",
+    "ko_name": "데스메라몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "skullmeramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/skullmeramon-icon.png",
+    "local_file": "assets/portraits/skullmeramon.png"
+  },
+  {
+    "number": 178,
+    "digimon_name": "Duramon",
+    "ko_name": "듀라몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "duramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/duramon-icon.png",
+    "local_file": "assets/portraits/duramon.png"
+  },
+  {
+    "number": 179,
+    "digimon_name": "ShogunGekomon",
+    "ko_name": "왕개굴몬",
+    "stage": "Ultimate",
+    "attribute": "Water",
+    "slug": "shogungekomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/shogungekomon-icon.png",
+    "local_file": "assets/portraits/shogungekomon.png"
+  },
+  {
+    "number": 180,
+    "digimon_name": "Triceramon",
+    "ko_name": "트리케라몬",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "triceramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/triceramon-icon.png",
+    "local_file": "assets/portraits/triceramon.png"
+  },
+  {
+    "number": 181,
+    "digimon_name": "DoruGreymon",
+    "ko_name": "돌그레이몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "dorugreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dorugreymon-icon.png",
+    "local_file": "assets/portraits/dorugreymon.png"
+  },
+  {
+    "number": 182,
+    "digimon_name": "Knightmon",
+    "ko_name": "나이트몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "knightmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/knightmon-icon.png",
+    "local_file": "assets/portraits/knightmon.png"
+  },
+  {
+    "number": 183,
+    "digimon_name": "Datamon",
+    "ko_name": "데이터몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "datamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/datamon-icon.png",
+    "local_file": "assets/portraits/datamon.png"
+  },
+  {
+    "number": 184,
+    "digimon_name": "Paildramon",
+    "ko_name": "파일드라몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "paildramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/paildramon-icon.png",
+    "local_file": "assets/portraits/paildramon.png"
+  },
+  {
+    "number": 185,
+    "digimon_name": "Panjyamon",
+    "ko_name": "화이트레오몬",
+    "stage": "Ultimate",
+    "attribute": "Water",
+    "slug": "panjyamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/panjyamon-icon.png",
+    "local_file": "assets/portraits/panjyamon.png"
+  },
+  {
+    "number": 186,
+    "digimon_name": "Pandamon",
+    "ko_name": "판다몬",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "pandamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/pandamon-icon.png",
+    "local_file": "assets/portraits/pandamon.png"
+  },
+  {
+    "number": 187,
+    "digimon_name": "Pumpkinmon",
+    "ko_name": "펌프몬",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "pumpkinmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/pumpkinmon-icon.png",
+    "local_file": "assets/portraits/pumpkinmon.png"
+  },
+  {
+    "number": 188,
+    "digimon_name": "Piximon",
+    "ko_name": "요정몬",
+    "stage": "Ultimate",
+    "attribute": "Light",
+    "slug": "piximon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/piximon-icon.png",
+    "local_file": "assets/portraits/piximon.png"
+  },
+  {
+    "number": 189,
+    "digimon_name": "HippoGryphonmon",
+    "ko_name": "히포그리포몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "hippogryphonmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hippogryphonmon-icon.png",
+    "local_file": "assets/portraits/hippogryphonmon.png"
+  },
+  {
+    "number": 190,
+    "digimon_name": "Phantomon",
+    "ko_name": "팬텀몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "phantomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/phantomon-icon.png",
+    "local_file": "assets/portraits/phantomon.png"
+  },
+  {
+    "number": 191,
+    "digimon_name": "BlackKingNumemon",
+    "ko_name": "블랙킹워매몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "blackkingnumemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/blackkingnumemon-icon.png",
+    "local_file": "assets/portraits/blackkingnumemon.png"
+  },
+  {
+    "number": 192,
+    "digimon_name": "BlueMeramon",
+    "ko_name": "블루메라몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "bluemeramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/bluemeramon-icon.png",
+    "local_file": "assets/portraits/bluemeramon.png"
+  },
+  {
+    "number": 193,
+    "digimon_name": "Vademon",
+    "ko_name": "베이더몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "vademon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/vademon-icon.png",
+    "local_file": "assets/portraits/vademon.png"
+  },
+  {
+    "number": 194,
+    "digimon_name": "Whamon",
+    "ko_name": "고래몬",
+    "stage": "Ultimate",
+    "attribute": "Water",
+    "slug": "whamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/whamon-icon.png",
+    "local_file": "assets/portraits/whamon.png"
+  },
+  {
+    "number": 195,
+    "digimon_name": "MagnaAngemon",
+    "ko_name": "홀리엔젤몬",
+    "stage": "Ultimate",
+    "attribute": "Light",
+    "slug": "magnaangemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/magnaangemon-icon.png",
+    "local_file": "assets/portraits/magnaangemon.png"
+  },
+  {
+    "number": 196,
+    "digimon_name": "Volcanomon",
+    "ko_name": "볼케몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "volcanomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/volcanomon-icon.png",
+    "local_file": "assets/portraits/volcanomon.png"
+  },
+  {
+    "number": 197,
+    "digimon_name": "Matadormon",
+    "ko_name": "마타돌몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "matadormon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/matadormon-icon.png",
+    "local_file": "assets/portraits/matadormon.png"
+  },
+  {
+    "number": 198,
+    "digimon_name": "MachGaogamon",
+    "ko_name": "마하가오가몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "machgaogamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/machgaogamon-icon.png",
+    "local_file": "assets/portraits/machgaogamon.png"
+  },
+  {
+    "number": 199,
+    "digimon_name": "Mamemon",
+    "ko_name": "콩알몬",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "mamemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/mamemon-icon.png",
+    "local_file": "assets/portraits/mamemon.png"
+  },
+  {
+    "number": 200,
+    "digimon_name": "MegaSeadramon",
+    "ko_name": "메가시드라몬",
+    "stage": "Ultimate",
+    "attribute": "Water",
+    "slug": "megaseadramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/megaseadramon-icon.png",
+    "local_file": "assets/portraits/megaseadramon.png"
+  },
+  {
+    "number": 201,
+    "digimon_name": "Megadramon",
+    "ko_name": "메가드라몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "megadramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/megadramon-icon.png",
+    "local_file": "assets/portraits/megadramon.png"
+  },
+  {
+    "number": 202,
+    "digimon_name": "WarGrowlmon",
+    "ko_name": "메가로그라우몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "wargrowlmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/wargrowlmon-icon.png",
+    "local_file": "assets/portraits/wargrowlmon.png"
+  },
+  {
+    "number": 203,
+    "digimon_name": "MetalGreymon",
+    "ko_name": "메탈그레이몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "metalgreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metalgreymon-icon.png",
+    "local_file": "assets/portraits/metalgreymon.png"
+  },
+  {
+    "number": 204,
+    "digimon_name": "MetalGreymon (Blue)",
+    "ko_name": "메탈그레이몬(청)",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "metalgreymon-blue",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metalgreymon-blue-icon.png",
+    "local_file": "assets/portraits/metalgreymon-blue.png"
+  },
+  {
+    "number": 205,
+    "digimon_name": "MetalTyrannomon",
+    "ko_name": "메탈티라노몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "metaltyrannomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metaltyrannomon-icon.png",
+    "local_file": "assets/portraits/metaltyrannomon.png"
+  },
+  {
+    "number": 206,
+    "digimon_name": "MetalMamemon",
+    "ko_name": "메탈콩알몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "metalmamemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metalmamemon-icon.png",
+    "local_file": "assets/portraits/metalmamemon.png"
+  },
+  {
+    "number": 207,
+    "digimon_name": "Monzaemon",
+    "ko_name": "퍼펫몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "monzaemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/monzaemon-icon.png",
+    "local_file": "assets/portraits/monzaemon.png"
+  },
+  {
+    "number": 208,
+    "digimon_name": "Crowmon",
+    "ko_name": "야타가라몬",
+    "stage": "Ultimate",
+    "attribute": "Wind",
+    "slug": "crowmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/crowmon-icon.png",
+    "local_file": "assets/portraits/crowmon.png"
+  },
+  {
+    "number": 209,
+    "digimon_name": "RizeGreymon",
+    "ko_name": "라이즈그레이몬",
+    "stage": "Ultimate",
+    "attribute": "Fire",
+    "slug": "rizegreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/rizegreymon-icon.png",
+    "local_file": "assets/portraits/rizegreymon.png"
+  },
+  {
+    "number": 210,
+    "digimon_name": "Lilamon",
+    "ko_name": "라이라몬",
+    "stage": "Ultimate",
+    "attribute": "Plant",
+    "slug": "lilamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lilamon-icon.png",
+    "local_file": "assets/portraits/lilamon.png"
+  },
+  {
+    "number": 211,
+    "digimon_name": "Rapidmon",
+    "ko_name": "래피드몬",
+    "stage": "Ultimate",
+    "attribute": "Electric",
+    "slug": "rapidmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/rapidmon-icon.png",
+    "local_file": "assets/portraits/rapidmon.png"
+  },
+  {
+    "number": 212,
+    "digimon_name": "Lillymon",
+    "ko_name": "릴리몬",
+    "stage": "Ultimate",
+    "attribute": "Plant",
+    "slug": "lillymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lillymon-icon.png",
+    "local_file": "assets/portraits/lillymon.png"
+  },
+  {
+    "number": 213,
+    "digimon_name": "Lucemon FM",
+    "ko_name": "루체몬 FM",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "lucemon-fm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lucemon-fm-icon.png",
+    "local_file": "assets/portraits/lucemon-fm.png"
+  },
+  {
+    "number": 214,
+    "digimon_name": "LadyDevimon",
+    "ko_name": "레이디데블몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "ladydevimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ladydevimon-icon.png",
+    "local_file": "assets/portraits/ladydevimon.png"
+  },
+  {
+    "number": 215,
+    "digimon_name": "WereGarurumon",
+    "ko_name": "워가루몬",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "weregarurumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/weregarurumon-icon.png",
+    "local_file": "assets/portraits/weregarurumon.png"
+  },
+  {
+    "number": 216,
+    "digimon_name": "WereGarurumon (Blk)",
+    "ko_name": "워가루몬(흑)",
+    "stage": "Ultimate",
+    "attribute": "Earth",
+    "slug": "weregarurumon-black",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/weregarurumon-blk-icon.png",
+    "local_file": "assets/portraits/weregarurumon-black.png"
+  },
+  {
+    "number": 217,
+    "digimon_name": "Wisemon",
+    "ko_name": "와이즈몬",
+    "stage": "Ultimate",
+    "attribute": "Dark",
+    "slug": "wisemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/wisemon-icon.png",
+    "local_file": "assets/portraits/wisemon.png"
+  },
+  {
+    "number": 218,
+    "digimon_name": "Arcadiamon Mega",
+    "ko_name": "아르카디아몬 궁극체",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "arcadiamon-mega",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/arcadiamon-mega-icon.png",
+    "local_file": "assets/portraits/arcadiamon-mega.png"
+  },
+  {
+    "number": 219,
+    "digimon_name": "Alphamon",
+    "ko_name": "알파몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "alphamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/alphamon-icon.png",
+    "local_file": "assets/portraits/alphamon.png"
+  },
+  {
+    "number": 220,
+    "digimon_name": "UlforceVeedramon",
+    "ko_name": "알포스브이드라몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "ulforceveedramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ulforceveedramon-icon.png",
+    "local_file": "assets/portraits/ulforceveedramon.png"
+  },
+  {
+    "number": 221,
+    "digimon_name": "Ebemon",
+    "ko_name": "이베몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "ebemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ebemon-icon.png",
+    "local_file": "assets/portraits/ebemon.png"
+  },
+  {
+    "number": 222,
+    "digimon_name": "Imperialdramon DM",
+    "ko_name": "임페리얼드라몬 DM",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "imperialdramon-dm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/imperialdramon-dm-icon.png",
+    "local_file": "assets/portraits/imperialdramon-dm.png"
+  },
+  {
+    "number": 223,
+    "digimon_name": "Imperialdramon FM",
+    "ko_name": "임페리얼드라몬 FM",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "imperialdramon-fm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/imperialdramon-fm-icon.png",
+    "local_file": "assets/portraits/imperialdramon-fm.png"
+  },
+  {
+    "number": 224,
+    "digimon_name": "Vikemon",
+    "ko_name": "바이킹몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "vikemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/vikemon-icon.png",
+    "local_file": "assets/portraits/vikemon.png"
+  },
+  {
+    "number": 225,
+    "digimon_name": "Valkyrimon",
+    "ko_name": "발키리몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "valkyrimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/valkyrimon-icon.png",
+    "local_file": "assets/portraits/valkyrimon.png"
+  },
+  {
+    "number": 226,
+    "digimon_name": "Varodurumon",
+    "ko_name": "발두르몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "varodurumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/varodurumon-icon.png",
+    "local_file": "assets/portraits/varodurumon.png"
+  },
+  {
+    "number": 227,
+    "digimon_name": "VenomMyotismon",
+    "ko_name": "베놈묘티스몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "venommyotismon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/venommyotismon-icon.png",
+    "local_file": "assets/portraits/venommyotismon.png"
+  },
+  {
+    "number": 228,
+    "digimon_name": "WarGreymon",
+    "ko_name": "워그레이몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "wargreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/wargreymon-icon.png",
+    "local_file": "assets/portraits/wargreymon.png"
+  },
+  {
+    "number": 229,
+    "digimon_name": "Ophanimon",
+    "ko_name": "오파니몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "ophanimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ophanimon-icon.png",
+    "local_file": "assets/portraits/ophanimon.png"
+  },
+  {
+    "number": 230,
+    "digimon_name": "Gaiomon",
+    "ko_name": "가이오몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "gaiomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gaiomon-icon.png",
+    "local_file": "assets/portraits/gaiomon.png"
+  },
+  {
+    "number": 231,
+    "digimon_name": "KaiserGreymon",
+    "ko_name": "카이젤그레이몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "kaisergreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kaisergreymon-icon.png",
+    "local_file": "assets/portraits/kaisergreymon.png"
+  },
+  {
+    "number": 232,
+    "digimon_name": "ChaosGallantmon",
+    "ko_name": "카오스듀크몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "chaosgallantmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/chaosgallantmon-icon.png",
+    "local_file": "assets/portraits/chaosgallantmon.png"
+  },
+  {
+    "number": 233,
+    "digimon_name": "Chaosdramon",
+    "ko_name": "카오스드라몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "chaosdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/chaosdramon-icon.png",
+    "local_file": "assets/portraits/chaosdramon.png"
+  },
+  {
+    "number": 234,
+    "digimon_name": "Gankoomon",
+    "ko_name": "간쿠몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "gankoomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gankoomon-icon.png",
+    "local_file": "assets/portraits/gankoomon.png"
+  },
+  {
+    "number": 235,
+    "digimon_name": "KingEtemon",
+    "ko_name": "킹에테몬",
+    "stage": "Mega",
+    "attribute": "Earth",
+    "slug": "kingetemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kingetemon-icon.png",
+    "local_file": "assets/portraits/kingetemon.png"
+  },
+  {
+    "number": 236,
+    "digimon_name": "Kuzuhamon",
+    "ko_name": "쿠즈하몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "kuzuhamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kuzuhamon-icon.png",
+    "local_file": "assets/portraits/kuzuhamon.png"
+  },
+  {
+    "number": 237,
+    "digimon_name": "GranKuwagamon",
+    "ko_name": "그랑쿠와가몬",
+    "stage": "Mega",
+    "attribute": "Plant",
+    "slug": "grankuwagamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/grankuwagamon-icon.png",
+    "local_file": "assets/portraits/grankuwagamon.png"
+  },
+  {
+    "number": 238,
+    "digimon_name": "GranDracmon",
+    "ko_name": "그랜드라큐몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "grandracmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/grandracmon-icon.png",
+    "local_file": "assets/portraits/grandracmon.png"
+  },
+  {
+    "number": 239,
+    "digimon_name": "GroundLocomon",
+    "ko_name": "그랜드로코몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "groundlocomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/groundlocomon-icon.png",
+    "local_file": "assets/portraits/groundlocomon.png"
+  },
+  {
+    "number": 240,
+    "digimon_name": "Gryphonmon",
+    "ko_name": "그리폰몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "gryphonmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gryphonmon-icon.png",
+    "local_file": "assets/portraits/gryphonmon.png"
+  },
+  {
+    "number": 241,
+    "digimon_name": "Craniamon",
+    "ko_name": "크레니엄몬",
+    "stage": "Mega",
+    "attribute": "Earth",
+    "slug": "craniamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/craniamon-icon.png",
+    "local_file": "assets/portraits/craniamon.png"
+  },
+  {
+    "number": 242,
+    "digimon_name": "Kerpymon (Blk)",
+    "ko_name": "켈비몬(악)",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "kerpymon-black",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kerpymon-blk-icon.png",
+    "local_file": "assets/portraits/kerpymon-black.png"
+  },
+  {
+    "number": 243,
+    "digimon_name": "Kerpymon (Good)",
+    "ko_name": "켈비몬(선)",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "kerpymon-good",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kerpymon-good-icon.png",
+    "local_file": "assets/portraits/kerpymon-good.png"
+  },
+  {
+    "number": 244,
+    "digimon_name": "Goldramon",
+    "ko_name": "갓드라몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "goldramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/goldramon-icon.png",
+    "local_file": "assets/portraits/goldramon.png"
+  },
+  {
+    "number": 245,
+    "digimon_name": "SaberLeomon",
+    "ko_name": "샤벨레오몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "saberleomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/saberleomon-icon.png",
+    "local_file": "assets/portraits/saberleomon.png"
+  },
+  {
+    "number": 246,
+    "digimon_name": "Sakuyamon",
+    "ko_name": "사쿠야몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "sakuyamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sakuyamon-icon.png",
+    "local_file": "assets/portraits/sakuyamon.png"
+  },
+  {
+    "number": 247,
+    "digimon_name": "Jesmon",
+    "ko_name": "제스몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "jesmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/jesmon-icon.png",
+    "local_file": "assets/portraits/jesmon.png"
+  },
+  {
+    "number": 248,
+    "digimon_name": "ShineGreymon",
+    "ko_name": "샤인그레이몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "shinegreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/shinegreymon-icon.png",
+    "local_file": "assets/portraits/shinegreymon.png"
+  },
+  {
+    "number": 249,
+    "digimon_name": "ShineGreymon BM",
+    "ko_name": "샤인그레이몬 BM",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "shinegreymon-bm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/shinegreymon-bm-icon.png",
+    "local_file": "assets/portraits/shinegreymon-bm.png"
+  },
+  {
+    "number": 250,
+    "digimon_name": "Justimon",
+    "ko_name": "저스티몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "justimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/justimon-icon.png",
+    "local_file": "assets/portraits/justimon.png"
+  },
+  {
+    "number": 251,
+    "digimon_name": "Kentaurosmon",
+    "ko_name": "슬레이프몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "kentaurosmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/kentaurosmon-icon.png",
+    "local_file": "assets/portraits/kentaurosmon.png"
+  },
+  {
+    "number": 252,
+    "digimon_name": "Slayerdramon",
+    "ko_name": "슬레이어드라몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "slayerdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/slayerdramon-icon.png",
+    "local_file": "assets/portraits/slayerdramon.png"
+  },
+  {
+    "number": 253,
+    "digimon_name": "Seraphimon",
+    "ko_name": "세라피몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "seraphimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/seraphimon-icon.png",
+    "local_file": "assets/portraits/seraphimon.png"
+  },
+  {
+    "number": 254,
+    "digimon_name": "MegaGargomon",
+    "ko_name": "세인트가르고몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "megagargomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/megagargomon-icon.png",
+    "local_file": "assets/portraits/megagargomon.png"
+  },
+  {
+    "number": 255,
+    "digimon_name": "Darkdramon",
+    "ko_name": "다크드라몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "darkdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/darkdramon-icon.png",
+    "local_file": "assets/portraits/darkdramon.png"
+  },
+  {
+    "number": 256,
+    "digimon_name": "TigerVespamon",
+    "ko_name": "타이거베스파몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "tigervespamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tigervespamon-icon.png",
+    "local_file": "assets/portraits/tigervespamon.png"
+  },
+  {
+    "number": 257,
+    "digimon_name": "Titamon",
+    "ko_name": "타이타몬",
+    "stage": "Mega",
+    "attribute": "Earth",
+    "slug": "titamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/titamon-icon.png",
+    "local_file": "assets/portraits/titamon.png"
+  },
+  {
+    "number": 258,
+    "digimon_name": "TyrantKabuterimon",
+    "ko_name": "타이런트캅테리몬",
+    "stage": "Mega",
+    "attribute": "Plant",
+    "slug": "tyrantkabuterimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/tyrantkabuterimon-icon.png",
+    "local_file": "assets/portraits/tyrantkabuterimon.png"
+  },
+  {
+    "number": 259,
+    "digimon_name": "Dianamon",
+    "ko_name": "디아나몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "dianamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dianamon-icon.png",
+    "local_file": "assets/portraits/dianamon.png"
+  },
+  {
+    "number": 260,
+    "digimon_name": "Diaboromon",
+    "ko_name": "디아블로몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "diaboromon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/diaboromon-icon.png",
+    "local_file": "assets/portraits/diaboromon.png"
+  },
+  {
+    "number": 261,
+    "digimon_name": "Creepymon",
+    "ko_name": "마왕몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "creepymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/creepymon-icon.png",
+    "local_file": "assets/portraits/creepymon.png"
+  },
+  {
+    "number": 262,
+    "digimon_name": "Gallantmon",
+    "ko_name": "듀크몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "gallantmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gallantmon-icon.png",
+    "local_file": "assets/portraits/gallantmon.png"
+  },
+  {
+    "number": 263,
+    "digimon_name": "Dynasmon",
+    "ko_name": "듀나스몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "dynasmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dynasmon-icon.png",
+    "local_file": "assets/portraits/dynasmon.png"
+  },
+  {
+    "number": 264,
+    "digimon_name": "Durandamon",
+    "ko_name": "듀란다몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "durandamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/durandamon-icon.png",
+    "local_file": "assets/portraits/durandamon.png"
+  },
+  {
+    "number": 265,
+    "digimon_name": "Leopardmon",
+    "ko_name": "두프트몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "leopardmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/leopardmon-icon.png",
+    "local_file": "assets/portraits/leopardmon.png"
+  },
+  {
+    "number": 266,
+    "digimon_name": "Leopardmon LM",
+    "ko_name": "두프트몬 LM",
+    "stage": "Mega",
+    "attribute": "Earth",
+    "slug": "leopardmon-lm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/leopardmon-lm-icon.png",
+    "local_file": "assets/portraits/leopardmon-lm.png"
+  },
+  {
+    "number": 267,
+    "digimon_name": "Dorugoramon",
+    "ko_name": "돌고라몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "dorugoramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/dorugoramon-icon.png",
+    "local_file": "assets/portraits/dorugoramon.png"
+  },
+  {
+    "number": 268,
+    "digimon_name": "Neptunemon",
+    "ko_name": "넵튠몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "neptunemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/neptunemon-icon.png",
+    "local_file": "assets/portraits/neptunemon.png"
+  },
+  {
+    "number": 269,
+    "digimon_name": "HiAndromon",
+    "ko_name": "하이안드로몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "hiandromon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hiandromon-icon.png",
+    "local_file": "assets/portraits/hiandromon.png"
+  },
+  {
+    "number": 270,
+    "digimon_name": "PileVolcamon",
+    "ko_name": "파일볼케몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "pilevolcamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/pilevolcamon-icon.png",
+    "local_file": "assets/portraits/pilevolcamon.png"
+  },
+  {
+    "number": 271,
+    "digimon_name": "Barbamon",
+    "ko_name": "바르바몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "barbamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/barbamon-icon.png",
+    "local_file": "assets/portraits/barbamon.png"
+  },
+  {
+    "number": 272,
+    "digimon_name": "BanchoLeomon",
+    "ko_name": "반초레오몬",
+    "stage": "Mega",
+    "attribute": "Earth",
+    "slug": "bancholeomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/bancholeomon-icon.png",
+    "local_file": "assets/portraits/bancholeomon.png"
+  },
+  {
+    "number": 273,
+    "digimon_name": "Piedmon",
+    "ko_name": "피에몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "piedmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/piedmon-icon.png",
+    "local_file": "assets/portraits/piedmon.png"
+  },
+  {
+    "number": 274,
+    "digimon_name": "Puppetmon",
+    "ko_name": "피노키몬",
+    "stage": "Mega",
+    "attribute": "Plant",
+    "slug": "puppetmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/puppetmon-icon.png",
+    "local_file": "assets/portraits/puppetmon.png"
+  },
+  {
+    "number": 275,
+    "digimon_name": "PlatinumNumemon",
+    "ko_name": "플래티넘워매몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "platinumnumemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/platinumnumemon-icon.png",
+    "local_file": "assets/portraits/platinumnumemon.png"
+  },
+  {
+    "number": 276,
+    "digimon_name": "BlackWarGreymon",
+    "ko_name": "블랙워그레이몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "blackwargreymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/blackwargreymon-icon.png",
+    "local_file": "assets/portraits/blackwargreymon.png"
+  },
+  {
+    "number": 277,
+    "digimon_name": "PrinceMamemon",
+    "ko_name": "프린스콩알몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "princemamemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/princemamemon-icon.png",
+    "local_file": "assets/portraits/princemamemon.png"
+  },
+  {
+    "number": 278,
+    "digimon_name": "Breakdramon",
+    "ko_name": "브레이크드라몬",
+    "stage": "Mega",
+    "attribute": "Earth",
+    "slug": "breakdramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/brakedramon-icon.png",
+    "local_file": "assets/portraits/breakdramon.png"
+  },
+  {
+    "number": 279,
+    "digimon_name": "Plesiomon",
+    "ko_name": "플레시오몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "plesiomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/plesiomon-icon.png",
+    "local_file": "assets/portraits/plesiomon.png"
+  },
+  {
+    "number": 280,
+    "digimon_name": "HerculesKabuterimon",
+    "ko_name": "헤라클레스캅테리몬",
+    "stage": "Mega",
+    "attribute": "Plant",
+    "slug": "herculeskabuterimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/herculeskabuterimon-icon.png",
+    "local_file": "assets/portraits/herculeskabuterimon.png"
+  },
+  {
+    "number": 281,
+    "digimon_name": "Beelzemon",
+    "ko_name": "베르제브몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "beelzemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/beelzemon-icon.png",
+    "local_file": "assets/portraits/beelzemon.png"
+  },
+  {
+    "number": 282,
+    "digimon_name": "Beelzemon BM",
+    "ko_name": "베르제브몬 BM",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "beelzemon-bm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/beelzemon-bm-icon.png",
+    "local_file": "assets/portraits/beelzemon-bm.png"
+  },
+  {
+    "number": 283,
+    "digimon_name": "Belphemon SM",
+    "ko_name": "벨페몬 SM",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "belphemon-sm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/belphemon-sm-icon.png",
+    "local_file": "assets/portraits/belphemon-sm.png"
+  },
+  {
+    "number": 284,
+    "digimon_name": "Hououmon",
+    "ko_name": "피닉스몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "hououmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hououmon-icon.png",
+    "local_file": "assets/portraits/hououmon.png"
+  },
+  {
+    "number": 285,
+    "digimon_name": "Magnadramon",
+    "ko_name": "홀리드라몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "magnadramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/magnadramon-icon.png",
+    "local_file": "assets/portraits/magnadramon.png"
+  },
+  {
+    "number": 286,
+    "digimon_name": "Boltmon",
+    "ko_name": "볼트몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "boltmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/boltmon-icon.png",
+    "local_file": "assets/portraits/boltmon.png"
+  },
+  {
+    "number": 287,
+    "digimon_name": "MagnaGarurumon",
+    "ko_name": "매그너가루몬",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "magnagarurumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/magnagarurumon-icon.png",
+    "local_file": "assets/portraits/magnagarurumon.png"
+  },
+  {
+    "number": 288,
+    "digimon_name": "MagnaGarurumon (SV)",
+    "ko_name": "매그너가루몬(SV)",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "magnagarurumon-sv",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/magnagarurumon-sv-icon.png",
+    "local_file": "assets/portraits/magnagarurumon-sv.png"
+  },
+  {
+    "number": 289,
+    "digimon_name": "Mastemon",
+    "ko_name": "마스테몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "mastemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/mastemon-icon.png",
+    "local_file": "assets/portraits/mastemon.png"
+  },
+  {
+    "number": 290,
+    "digimon_name": "MarineAngemon",
+    "ko_name": "마린엔젤몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "marineangemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/marineangemon-icon.png",
+    "local_file": "assets/portraits/marineangemon.png"
+  },
+  {
+    "number": 291,
+    "digimon_name": "Minervamon",
+    "ko_name": "미네르바몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "minervamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/minervamon-icon.png",
+    "local_file": "assets/portraits/minervamon.png"
+  },
+  {
+    "number": 292,
+    "digimon_name": "MirageGaogamon",
+    "ko_name": "미라주가오가몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "miragegaogamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/miragegaogamon-icon.png",
+    "local_file": "assets/portraits/miragegaogamon.png"
+  },
+  {
+    "number": 293,
+    "digimon_name": "MirageGaogamon BM",
+    "ko_name": "미라주가오가몬 BM",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "miragegaogamon-bm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/miragegaogamon-bm-icon.png",
+    "local_file": "assets/portraits/miragegaogamon-bm.png"
+  },
+  {
+    "number": 294,
+    "digimon_name": "Machinedramon",
+    "ko_name": "파워드라몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "machinedramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/machinedramon-icon.png",
+    "local_file": "assets/portraits/machinedramon.png"
+  },
+  {
+    "number": 295,
+    "digimon_name": "Megidramon",
+    "ko_name": "메기드라몬",
+    "stage": "Mega",
+    "attribute": "Fire",
+    "slug": "megidramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/megidramon-icon.png",
+    "local_file": "assets/portraits/megidramon.png"
+  },
+  {
+    "number": 296,
+    "digimon_name": "MetalEtemon",
+    "ko_name": "메탈에테몬",
+    "stage": "Mega",
+    "attribute": "Earth",
+    "slug": "metaletemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metaletemon-icon.png",
+    "local_file": "assets/portraits/metaletemon.png"
+  },
+  {
+    "number": 297,
+    "digimon_name": "MetalGarurumon",
+    "ko_name": "메탈가루몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "metalgarurumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metalgarurumon-icon.png",
+    "local_file": "assets/portraits/metalgarurumon.png"
+  },
+  {
+    "number": 298,
+    "digimon_name": "MetalGarurumon (Blk)",
+    "ko_name": "메탈가루몬(흑)",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "metalgarurumon-black",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metalgarurumon-blk-icon.png",
+    "local_file": "assets/portraits/metalgarurumon-black.png"
+  },
+  {
+    "number": 299,
+    "digimon_name": "MetalSeadramon",
+    "ko_name": "메탈시드라몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "metalseadramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/metalseadramon-icon.png",
+    "local_file": "assets/portraits/metalseadramon.png"
+  },
+  {
+    "number": 300,
+    "digimon_name": "Merukimon",
+    "ko_name": "메르쿠리몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "merukimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/merukimon-icon.png",
+    "local_file": "assets/portraits/merukimon.png"
+  },
+  {
+    "number": 301,
+    "digimon_name": "RustTyranomon",
+    "ko_name": "러스트티라노몬",
+    "stage": "Mega",
+    "attribute": "Electric",
+    "slug": "rusttyranomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/rusttyranomon-icon.png",
+    "local_file": "assets/portraits/rusttyranomon.png"
+  },
+  {
+    "number": 302,
+    "digimon_name": "Leviamon",
+    "ko_name": "리바이어몬",
+    "stage": "Mega",
+    "attribute": "Water",
+    "slug": "leviamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/leviamon-icon.png",
+    "local_file": "assets/portraits/leviamon.png"
+  },
+  {
+    "number": 303,
+    "digimon_name": "Lilithmon",
+    "ko_name": "리리스몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "lilithmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lilithmon-icon.png",
+    "local_file": "assets/portraits/lilithmon.png"
+  },
+  {
+    "number": 304,
+    "digimon_name": "Ravemon",
+    "ko_name": "레이브몬",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "ravemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ravemon-icon.png",
+    "local_file": "assets/portraits/ravemon.png"
+  },
+  {
+    "number": 305,
+    "digimon_name": "Ravemon BM",
+    "ko_name": "레이브몬 BM",
+    "stage": "Mega",
+    "attribute": "Wind",
+    "slug": "ravemon-bm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ravemon-bm-icon.png",
+    "local_file": "assets/portraits/ravemon-bm.png"
+  },
+  {
+    "number": 306,
+    "digimon_name": "Crusadermon",
+    "ko_name": "로드나이트몬",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "crusadermon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/crusadermon-icon.png",
+    "local_file": "assets/portraits/crusadermon.png"
+  },
+  {
+    "number": 307,
+    "digimon_name": "Rosemon",
+    "ko_name": "로제몬",
+    "stage": "Mega",
+    "attribute": "Plant",
+    "slug": "rosemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/rosemon-icon.png",
+    "local_file": "assets/portraits/rosemon.png"
+  },
+  {
+    "number": 308,
+    "digimon_name": "Rosemon BM",
+    "ko_name": "로제몬 BM",
+    "stage": "Mega",
+    "attribute": "Plant",
+    "slug": "rosemon-bm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/rosemon-bm-icon.png",
+    "local_file": "assets/portraits/rosemon-bm.png"
+  },
+  {
+    "number": 309,
+    "digimon_name": "Lotosmon",
+    "ko_name": "로터스몬",
+    "stage": "Mega",
+    "attribute": "Plant",
+    "slug": "lotosmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lotosmon-icon.png",
+    "local_file": "assets/portraits/lotosmon.png"
+  },
+  {
+    "number": 310,
+    "digimon_name": "Armageddemon",
+    "ko_name": "아마게몬",
+    "stage": "Ultra",
+    "attribute": "Dark",
+    "slug": "armageddemon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/armageddemon-icon.png",
+    "local_file": "assets/portraits/armageddemon.png"
+  },
+  {
+    "number": 311,
+    "digimon_name": "Arcadiamon Ultra",
+    "ko_name": "아르카디아몬 초궁극체",
+    "stage": "Ultra",
+    "attribute": "Dark",
+    "slug": "arcadiamon-ultra",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/arcadiamon-ultra-icon.png",
+    "local_file": "assets/portraits/arcadiamon-ultra.png"
+  },
+  {
+    "number": 312,
+    "digimon_name": "Alphamon Ouryuken",
+    "ko_name": "알파몬 왕룡검",
+    "stage": "Ultra",
+    "attribute": "Neutral",
+    "slug": "alphamon-ouryuken",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/alphamon-ouryuken-icon.png",
+    "local_file": "assets/portraits/alphamon-ouryuken.png"
+  },
+  {
+    "number": 313,
+    "digimon_name": "Imperialdramon PM",
+    "ko_name": "임페리얼드라몬 PM",
+    "stage": "Ultra",
+    "attribute": "Light",
+    "slug": "imperialdramon-pm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/imperialdramon-pm-icon.png",
+    "local_file": "assets/portraits/imperialdramon-pm.png"
+  },
+  {
+    "number": 314,
+    "digimon_name": "Examon",
+    "ko_name": "엑사몬",
+    "stage": "Ultra",
+    "attribute": "Wind",
+    "slug": "examon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/examon-icon.png",
+    "local_file": "assets/portraits/examon.png"
+  },
+  {
+    "number": 315,
+    "digimon_name": "Omnimon",
+    "ko_name": "오메가몬",
+    "stage": "Ultra",
+    "attribute": "Light",
+    "slug": "omnimon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/omnimon-icon.png",
+    "local_file": "assets/portraits/omnimon.png"
+  },
+  {
+    "number": 316,
+    "digimon_name": "Omnimon Zwart",
+    "ko_name": "오메가몬 즈왈트",
+    "stage": "Ultra",
+    "attribute": "Dark",
+    "slug": "omnimon-zwart",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/omnimon-zwart-icon.png",
+    "local_file": "assets/portraits/omnimon-zwart.png"
+  },
+  {
+    "number": 317,
+    "digimon_name": "Chaosmon",
+    "ko_name": "카오스몬",
+    "stage": "Ultra",
+    "attribute": "Neutral",
+    "slug": "chaosmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/chaosmon-icon.png",
+    "local_file": "assets/portraits/chaosmon.png"
+  },
+  {
+    "number": 318,
+    "digimon_name": "Chaosmon VA",
+    "ko_name": "카오스몬 VA",
+    "stage": "Ultra",
+    "attribute": "Light",
+    "slug": "chaosmon-va",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/chaosmon-va-icon.png",
+    "local_file": "assets/portraits/chaosmon-va.png"
+  },
+  {
+    "number": 319,
+    "digimon_name": "Susanomon",
+    "ko_name": "스사노오몬",
+    "stage": "Ultra",
+    "attribute": "Light",
+    "slug": "susanomon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/susanomon-icon.png",
+    "local_file": "assets/portraits/susanomon.png"
+  },
+  {
+    "number": 320,
+    "digimon_name": "Gallantmon CM",
+    "ko_name": "듀크몬 CM",
+    "stage": "Ultra",
+    "attribute": "Light",
+    "slug": "gallantmon-cm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gallantmon-cm-icon.png",
+    "local_file": "assets/portraits/gallantmon-cm.png"
+  },
+  {
+    "number": 321,
+    "digimon_name": "Belphemon RM",
+    "ko_name": "벨페몬 RM",
+    "stage": "Ultra",
+    "attribute": "Dark",
+    "slug": "belphemon-rm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/belphemon-rm-icon.png",
+    "local_file": "assets/portraits/belphemon-rm.png"
+  },
+  {
+    "number": 322,
+    "digimon_name": "Lucemon SM",
+    "ko_name": "루체몬 SM",
+    "stage": "Ultra",
+    "attribute": "Dark",
+    "slug": "lucemon-sm",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/lucemon-sm-icon.png",
+    "local_file": "assets/portraits/lucemon-sm.png"
+  },
+  {
+    "number": 323,
+    "digimon_name": "Flamedramon",
+    "ko_name": "화염드라몬",
+    "stage": "Armor",
+    "attribute": "Fire",
+    "slug": "flamedramon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/flamedramon-icon.png",
+    "local_file": "assets/portraits/flamedramon.png"
+  },
+  {
+    "number": 324,
+    "digimon_name": "Magnamon",
+    "ko_name": "매그너몬",
+    "stage": "Armor",
+    "attribute": "Earth",
+    "slug": "magnamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/magnamon-icon.png",
+    "local_file": "assets/portraits/magnamon.png"
+  },
+  {
+    "number": 325,
+    "digimon_name": "Rapidmon (Armor)",
+    "ko_name": "매그너래피드몬",
+    "stage": "Armor",
+    "attribute": "Light",
+    "slug": "rapidmon-armor",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/rapidmon-armor-icon.png",
+    "local_file": "assets/portraits/rapidmon-armor.png"
+  },
+  {
+    "number": 326,
+    "digimon_name": "Shoutmon",
+    "ko_name": "샤우트몬",
+    "stage": NaN,
+    "attribute": "Fire",
+    "slug": "shoutmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/shoutmon-icon.png",
+    "local_file": "assets/portraits/shoutmon.png"
+  },
+  {
+    "number": 327,
+    "digimon_name": "OmniShoutmon",
+    "ko_name": "오메가샤우트몬",
+    "stage": NaN,
+    "attribute": "Fire",
+    "slug": "omnishoutmon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/omnishoutmon-icon.png",
+    "local_file": "assets/portraits/omnishoutmon.png"
+  },
+  {
+    "number": 328,
+    "digimon_name": "Ryudamon",
+    "ko_name": "류우다몬",
+    "stage": "Rookie",
+    "attribute": "Neutral",
+    "slug": "ryudamon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ryudamon-icon.png",
+    "local_file": "assets/portraits/ryudamon.png"
+  },
+  {
+    "number": 329,
+    "digimon_name": "Ginryumon",
+    "ko_name": "긴류우몬",
+    "stage": "Champion",
+    "attribute": "Neutral",
+    "slug": "ginryumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ginryumon-icon.png",
+    "local_file": "assets/portraits/ginryumon.png"
+  },
+  {
+    "number": 330,
+    "digimon_name": "Hisyaryumon",
+    "ko_name": "히샤류우몬",
+    "stage": "Ultimate",
+    "attribute": "Neutral",
+    "slug": "hisyaryumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/hisyaryumon-icon.png",
+    "local_file": "assets/portraits/hisyaryumon.png"
+  },
+  {
+    "number": 331,
+    "digimon_name": "Ouryumon",
+    "ko_name": "오류우몬",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "ouryumon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/ouryumon-icon.png",
+    "local_file": "assets/portraits/ouryumon.png"
+  },
+  {
+    "number": 332,
+    "digimon_name": "Apocalymon",
+    "ko_name": "아포카리몬",
+    "stage": "Ultra",
+    "attribute": "Neutral",
+    "slug": "apocalymon",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/apocalymon-icon.png",
+    "local_file": "assets/portraits/apocalymon.png"
+  },
+  {
+    "number": 333,
+    "digimon_name": "Sistermon Blanc",
+    "ko_name": "시스터몬 블랑",
+    "stage": "Rookie",
+    "attribute": "Light",
+    "slug": "sistermon-blanc",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sistermon-blanc-icon.png",
+    "local_file": "assets/portraits/sistermon-blanc.png"
+  },
+  {
+    "number": 334,
+    "digimon_name": "Sistermon B (Awake.)",
+    "ko_name": "시스터몬 블랑(각성)",
+    "stage": "Rookie",
+    "attribute": "Light",
+    "slug": "sistermon-b-awake",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sistermon-b-awake-icon.png",
+    "local_file": "assets/portraits/sistermon-b-awake.png"
+  },
+  {
+    "number": 335,
+    "digimon_name": "Sistermon Ciel",
+    "ko_name": "시스터몬 시엘",
+    "stage": "Champion",
+    "attribute": "Light",
+    "slug": "sistermon-ciel",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sistermon-ciel-icon.png",
+    "local_file": "assets/portraits/sistermon-ciel.png"
+  },
+  {
+    "number": 336,
+    "digimon_name": "Sistermon C (Awake.)",
+    "ko_name": "시스터몬 시엘(각성)",
+    "stage": "Champion",
+    "attribute": "Light",
+    "slug": "sistermon-c-awake",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/sistermon-c-awake-icon.png",
+    "local_file": "assets/portraits/sistermon-c-awake.png"
+  },
+  {
+    "number": 337,
+    "digimon_name": "Alphamon NX",
+    "ko_name": "알파몬 NX",
+    "stage": "Mega",
+    "attribute": "Neutral",
+    "slug": "alphamon-nx",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/alphamon-nx-icon.png",
+    "local_file": "assets/portraits/alphamon-nx.png"
+  },
+  {
+    "number": 338,
+    "digimon_name": "Crusadermon NX",
+    "ko_name": "로드나이트몬 NX",
+    "stage": "Mega",
+    "attribute": "Dark",
+    "slug": "crusadermon-nx",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/crusadermon-nx-icon.png",
+    "local_file": "assets/portraits/crusadermon-nx.png"
+  },
+  {
+    "number": 339,
+    "digimon_name": "Leopardmon NX",
+    "ko_name": "두프트몬 NX",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "leopardmon-nx",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/leopardmon-nx-icon.png",
+    "local_file": "assets/portraits/leopardmon-nx.png"
+  },
+  {
+    "number": 340,
+    "digimon_name": "Omnimon NX",
+    "ko_name": "오메가몬 NX",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "omnimon-nx",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/omnimon-nx-icon.png",
+    "local_file": "assets/portraits/omnimon-nx.png"
+  },
+  {
+    "number": 341,
+    "digimon_name": "Gallantmon NX",
+    "ko_name": "듀크몬 NX",
+    "stage": "Mega",
+    "attribute": "Light",
+    "slug": "gallantmon-nx",
+    "icon_url": "https://www.grindosaur.com/img/games/digimon-story-cyber-sleuth/icons/gallantmon-nx-icon.png",
+    "local_file": "assets/portraits/gallantmon-nx.png"
+  }
+]
